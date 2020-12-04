@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    color: rgb(66, 120, 238);
+    font-family: FreeMono, monospace;
+}
+
+html {
+    background-color: LightSteelBlue;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+}
+
+
+@media all and (max-width:1199px){
+body { 
+    marging:15px
+}
+
+
+h1 {
+    font-size:5em;
+}
+
+h2 {
+    font-size:4em;
+}
+
+h3 {
+    font-size:3em;
+}
+
+h4 {
+    font-size:1,5em;
+}
+
+h5 {
+    font-size:1,5;
+}
+
+p {
+    font-size:2em;
+}
+}
