@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    color: rgb(66, 120, 238);
+    font-family: FreeMono, monospace;
+}
+
+html {
+    background-color: LightSteelBlue;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+}
+
